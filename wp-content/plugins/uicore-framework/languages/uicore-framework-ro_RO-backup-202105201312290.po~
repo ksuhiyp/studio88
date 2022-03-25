@@ -1,0 +1,368 @@
+# Copyright (C) 2021 uicore-framework
+# This file is distributed under the same license as the uicore-framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: uicore-framework\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-20 13:12+0000\n"
+"PO-Revision-Date: 2021-05-20 13:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Română\n"
+"Language: ro_RO\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2"
+
+#: ../includes/class-admin.php:68
+msgid "Get Started"
+msgstr ""
+
+#: ../includes/class-admin.php:69, ../includes/class-common.php:62
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/class-admin.php:70
+msgid "System"
+msgstr ""
+
+#: ../includes/class-admin.php:368
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../includes/class-admin.php:618
+msgid "Simple Megamenu"
+msgstr ""
+
+#: ../includes/class-common.php:63
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/class-common.php:64
+msgid "Branding"
+msgstr ""
+
+#: ../includes/class-common.php:65
+msgid "Top Banner"
+msgstr ""
+
+#: ../includes/class-common.php:66,
+#: ../includes/theme-builder/class-admin.php:132
+msgid "Header"
+msgstr ""
+
+#: ../includes/class-common.php:67,
+#: ../includes/theme-builder/class-admin.php:133
+msgid "Footer"
+msgstr ""
+
+#: ../includes/class-common.php:68
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/class-common.php:69
+msgid "Blog"
+msgstr ""
+
+#: ../includes/class-common.php:70, ../includes/class-common.php:286
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/class-common.php:71
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/class-common.php:72
+msgid "Social"
+msgstr ""
+
+#: ../includes/class-common.php:73
+msgid "Custom"
+msgstr ""
+
+#: ../includes/class-common.php:274
+msgid "Top Bar Column One"
+msgstr ""
+
+#: ../includes/class-common.php:275
+msgid "Top Bar Column Two"
+msgstr ""
+
+#: ../includes/class-common.php:287
+msgid "portfolio"
+msgstr ""
+
+#: ../includes/class-frontend.php:579
+msgctxt "Frontend - Mobile submenu"
+msgid "Back"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:36
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:54
+msgid "Text"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:73
+msgid "Highlight Style"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:77
+msgid "None"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:78
+msgid "Stroke 1"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:79
+msgid "Stroke 2"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:80
+msgid "Stroke 3"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:81
+msgid "Stroke 4"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:82
+msgid "Stroke 5"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:83
+msgid "Stroke 6"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:84
+msgid "Stroke 7"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:92
+msgid "Content"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:97
+msgid "This is my awesome"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:101
+msgid "highlight"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:105
+msgid "text."
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:117
+msgid "Alignment"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:121
+msgid "Left"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:125
+msgid "Center"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:129
+msgid "Right"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:143
+msgid "HTML Tag"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:165
+msgid "Shape"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:173
+msgid "Color"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:187
+msgid "Width"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:208
+msgid "Vertical Offset"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:233
+msgid "Animation"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:235
+msgid "On"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:236
+msgid "Off"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:247
+msgid "Animation Delay"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:268
+msgid "Headline"
+msgstr ""
+
+#: ../includes/elements/highlighted-text.php:276
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/extra/class-elementor.php:428
+msgid "UiCore Custom"
+msgstr ""
+
+#: ../includes/extra/class-elementor.php:429
+msgid "UiCore Typekit"
+msgstr ""
+
+#: ../includes/extra/class-elementor.php:524
+msgid "Themify Icons"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../includes/templates/blog.php:288
+msgctxt "Frontend - Blog"
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../includes/templates/blog.php:300
+msgctxt "Frontend - Blog"
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/templates/page-title.php:122
+msgctxt "Frontend - Page title"
+msgid "Category: %s"
+msgstr ""
+
+#: ../includes/templates/page-title.php:119,
+#: ../includes/templates/page-title.php:291
+msgctxt "Frontend - Page title"
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/templates/page-title.php:76
+msgctxt "Frontend - Page title"
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../includes/templates/page-title.php:243
+msgctxt "Frontend - Page title"
+msgid "Home"
+msgstr ""
+
+#: ../includes/templates/pagination.php:26,
+#: ../includes/templates/pagination.php:45
+msgctxt "Frontend - Pagination"
+msgid "Posts navigation"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../includes/templates/portfolio.php:236
+msgctxt "Frontend - Portfolio"
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../includes/templates/search.php:45
+msgctxt "Frontend - FullScreen Search"
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../includes/theme-builder/class-admin.php:46,
+#: ../includes/theme-builder/class-admin.php:47,
+#: ../includes/theme-builder/class-common.php:38
+msgid "Theme Builder"
+msgstr ""
+
+#: ../includes/theme-builder/class-admin.php:134
+msgid "Mega Menu"
+msgstr ""
+
+#: ../includes/theme-builder/class-admin.php:135
+msgid "Block"
+msgstr ""
+
+#: ../includes/theme-builder/class-admin.php:146
+msgid "All"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:47
+msgctxt "Theme Builder"
+msgid "Type"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:136
+msgid "404 Page"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:140
+msgid "Search Page"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:144
+msgid "Blog / Posts Page"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:148
+msgid "Front Page"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:152
+msgid "Date Archive"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:156
+msgid "Author Archive"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:163
+msgid "WooCommerce Shop Page"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:170
+msgid "Basic"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:173
+msgid "Entire Website"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:185
+msgid "All Singulars"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:189
+msgid "All Archives"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:197
+msgid "Special Pages"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:204
+msgid "Specific Target"
+msgstr ""
+
+#: ../includes/theme-builder/class-common.php:207
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr ""
